@@ -3,3 +3,4 @@
 new line
 
 added index.php
+added .gitignore(.idea)
